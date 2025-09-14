@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-//To-B1
+
 @RestController
 @RequestMapping("/api/persons")
 public class PersonController {
